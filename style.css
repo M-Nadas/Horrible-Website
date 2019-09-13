@@ -1,0 +1,16 @@
+body {
+	background-color: #32CD32;
+    font-family: cursive ;
+    #color: #6f8816;
+	color:#ff3399;
+}
+h1{
+    padding:5px;
+}
+a{
+	color:#ff3399;
+	text-decoration:none;
+}
+#one {
+	width:300px;
+}
